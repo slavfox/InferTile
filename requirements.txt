@@ -1,0 +1,2 @@
+wxPython==4.0.0b2
+Pillow==4.3.0
